@@ -6,7 +6,7 @@ from PIL import Image, ImageDraw, ImageFont
 api_url = "https://api.openweathermap.org/data/2.5/weather"
 
 # API key for accessing weather data
-api_key = "9fa4c9c8fad5fb870c5bac828731ebbd"
+api_key = "API_KEY_HERE"
 
 # Location for which to retrieve weather data
 location = "Wiesbaden"
